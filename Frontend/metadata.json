@@ -1,0 +1,7 @@
+{
+  "name": "Advance Physio's Hub",
+  "description": "Premium Physiotherapy and Rehabilitation Clinic in Chhatrapati Sambhajinagar (Aurangabad), Maharashtra. Evidence-based orthopedic rehab, sports recovery, pain management, and movement restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
