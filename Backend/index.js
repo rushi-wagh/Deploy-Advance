@@ -8,7 +8,7 @@ const dns = require('dns');
 dns.setDefaultResultOrder('ipv4first'); // force IPv4 over IPv6 for all connections
 
 require('dotenv').config();
-const express = require('express');
+
 // ...rest of your requires
 
 const express      = require('express');
