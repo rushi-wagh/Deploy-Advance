@@ -30,7 +30,7 @@ const allowedOrigins = [
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 
-app.use("/",(req,res) => {
+app.get("/",(req,res) => {
   res.json({ msg: "Welcome to the Advance Physio's Hub API" });
 });
 
